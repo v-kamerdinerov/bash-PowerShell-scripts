@@ -5,7 +5,7 @@
 ## Description:  
 Some scripts to make life easier when working with Linux, AWS Cloud, K8s and even Pshell.
 
-##<img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/64x64.svg" width="64"> bash
+## <img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/64x64.svg" width="64"> bash
 
 
 ##### clean_docker_images.sh
@@ -28,6 +28,6 @@ du -sh /where/find/folders/* 2>/dev/null | grep "[[:digit:]]\.*M" | sort -nk1 | 
 ```
 
 
-##<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="64"> PowerShell
+## <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="64"> PowerShell
 ##### copy.ps1
 Copies the latest folders to the desired directory and archives them into a .zip archive. Works with PowerShell v2.0 and higher.
